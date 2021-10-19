@@ -1,0 +1,8 @@
+// Kravställning
+
+// När webbapplikationen laddas ska kön vara tom. 
+// Det ska finnas en lista med samtliga personer i kön samt vilken plats i kön personen har. 
+// Du ska kunna skriva in en persons namn, och med ett knapptryck placera kunden sist i kön. 
+// Det ska finnas en Fast Track-knapp, som placerar personen längst fram i kön. 
+// När en person har checkat in, ska det gå att klicka på en knapp för att ta bort den första personen i kön. 
+// Om kön är tom, skriv ut meddelandet “There’s currently no people standing in line” på sidan.
